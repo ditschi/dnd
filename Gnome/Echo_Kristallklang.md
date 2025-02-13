@@ -1,6 +1,7 @@
 # Echo Kristallklang
 
 ## Grundinformationen
+- **Rasse:** Gnom
 - **Klasse:** Druide (Kreis der Träume)
 - **Alter:** 47
 - **Größe:** 0,91m

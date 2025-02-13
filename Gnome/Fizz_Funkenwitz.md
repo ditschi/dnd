@@ -1,6 +1,7 @@
 # Fizz Funkenwitz
 
 ## Grundinformationen
+- **Rasse:** Gnom
 - **Klasse:** Artificer
 - **Alter:** 42
 - **Größe:** 0,95m

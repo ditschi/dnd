@@ -1,6 +1,7 @@
 # Thorgrim Erdenwanderer
 
 ## Grundinformationen
+- **Rasse:** Zwerg
 - **Klasse:** Druide (Kreis des Landes)
 - **Alter:** 142
 - **Größe:** 1,32m

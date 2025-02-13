@@ -1,6 +1,7 @@
 # Nix Schattenstein
 
 ## Grundinformationen
+- **Rasse:** Zwerg
 - **Klasse:** Schurke (Meisterdieb)
 - **Größe:** 1,22m
 - **Gewicht:** 65kg

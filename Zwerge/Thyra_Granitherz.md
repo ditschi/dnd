@@ -1,8 +1,9 @@
 # Thyra Granitherz
 
 ## Grundinformationen
-- **Klasse:** Kriegerin/Handwerkerin
-- **Alter:** 123
+- **Rasse:** Zwergin
+- **Klasse:** Kriegerin
+- **Alter:** 145
 - **Größe:** 1,28m
 - **Gewicht:** 70kg
 - **Alignment:** Neutral Good

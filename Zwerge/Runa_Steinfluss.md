@@ -1,6 +1,7 @@
 # Runa Steinfluss
 
 ## Grundinformationen
+- **Rasse:** Zwergin
 - **Klasse:** Mönch (Weg der Lebenden Felsen)
 - **Größe:** 1,31m
 - **Gewicht:** 71kg

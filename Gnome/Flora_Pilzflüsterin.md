@@ -1,6 +1,7 @@
 # Flora Pilzflüsterin
 
 ## Grundinformationen
+- **Rasse:** Gnomin
 - **Klasse:** Druide (Kreis der Sporen)
 - **Größe:** 0,88m
 - **Gewicht:** 15kg

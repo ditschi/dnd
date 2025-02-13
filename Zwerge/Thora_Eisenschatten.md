@@ -1,6 +1,7 @@
 # Thora Eisenschatten
 
 ## Grundinformationen
+- **Rasse:** Zwergin
 - **Klasse:** Schurke (Assassine)
 - **Größe:** 1,25m
 - **Gewicht:** 68kg

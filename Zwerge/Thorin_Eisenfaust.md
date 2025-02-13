@@ -1,6 +1,7 @@
 # Thorin Eisenfaust
 
 ## Grundinformationen
+- **Rasse:** Zwerg
 - **Klasse:** Kleriker
 - **Alter:** 147
 - **Größe:** 1,30m

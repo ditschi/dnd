@@ -1,6 +1,7 @@
 # Dagmar Kristallherz
 
 ## Grundinformationen
+- **Rasse:** Zwergin
 - **Klasse:** Druide (Kreis der Kristalle)
 - **Größe:** 1,28m
 - **Gewicht:** 69kg

@@ -1,6 +1,7 @@
 # Willow Waldflüsterin
 
 ## Grundinformationen
+- **Rasse:** Gnomin
 - **Klasse:** Waldläufer (Horizontwanderer)
 - **Alter:** 34
 - **Größe:** 0,89m

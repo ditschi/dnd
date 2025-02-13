@@ -1,6 +1,7 @@
 # Dwalin Schildbrecher
 
 ## Grundinformationen
+- **Rasse:** Zwerg
 - **Klasse:** Kämpfer/Braumeister
 - **Alter:** 167
 - **Größe:** 1,40m

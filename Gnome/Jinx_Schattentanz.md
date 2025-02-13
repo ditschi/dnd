@@ -1,6 +1,7 @@
 # Jinx Schattentanz
 
 ## Grundinformationen
+- **Rasse:** Gnomin
 - **Klasse:** Schurke (Akrobat)
 - **Größe:** 0,84m
 - **Gewicht:** 13kg

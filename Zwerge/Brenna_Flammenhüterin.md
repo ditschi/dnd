@@ -1,6 +1,7 @@
 # Brenna Flammenhüterin
 
 ## Grundinformationen
+- **Rasse:** Zwergin
 - **Klasse:** Druide (Kreis des Wildenfeuers)
 - **Alter:** 135
 - **Größe:** 1,27m

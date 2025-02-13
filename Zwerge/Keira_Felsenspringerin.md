@@ -1,6 +1,7 @@
 # Keira Felsenspringerin
 
 ## Grundinformationen
+- **Rasse:** Zwergin
 - **Klasse:** Mönch (Weg der Vier Elemente)
 - **Alter:** 95
 - **Größe:** 1,25m

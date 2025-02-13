@@ -1,7 +1,9 @@
 # Pip Schattentänzer
 
 ## Grundinformationen
+- **Rasse:** Gnom
 - **Klasse:** Mönch (Weg des Schattens)
+- **Alter:** 35
 - **Größe:** 0,88m
 - **Gewicht:** 15kg
 - **Alignment:** Chaotisch Gut

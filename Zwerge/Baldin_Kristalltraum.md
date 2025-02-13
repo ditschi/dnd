@@ -1,6 +1,7 @@
 # Baldin Kristalltraum
 
 ## Grundinformationen
+- **Rasse:** Zwerg
 - **Klasse:** Magier
 - **Alter:** 163
 - **Größe:** 1,25m

@@ -1,6 +1,7 @@
 # Glimmer Nebelschritt
 
 ## Grundinformationen
+- **Rasse:** Gnomin
 - **Klasse:** Mönch (Weg des Nebeltänzers)
 - **Größe:** 0,89m
 - **Gewicht:** 16kg

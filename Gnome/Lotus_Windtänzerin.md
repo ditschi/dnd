@@ -1,6 +1,7 @@
 # Lotus Windtänzerin
 
 ## Grundinformationen
+- **Rasse:** Gnomin
 - **Klasse:** Mönch (Weg der Offenen Hand)
 - **Alter:** 29
 - **Größe:** 0,86m

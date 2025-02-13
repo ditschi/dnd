@@ -1,6 +1,7 @@
 # Morgrim Stahlseele
 
 ## Grundinformationen
+- **Rasse:** Zwerg
 - **Klasse:** Paladin
 - **Alter:** 195
 - **Größe:** 1,35m

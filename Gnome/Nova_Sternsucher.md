@@ -1,6 +1,7 @@
 # Nova Sternsucher
 
 ## Grundinformationen
+- **Rasse:** Gnomin
 - **Klasse:** Waldläufer (Horizontwanderer/Sternenseher)
 - **Alter:** 41
 - **Größe:** 0,87m

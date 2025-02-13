@@ -1,6 +1,7 @@
 # Ziggy Blitzgeist
 
 ## Grundinformationen
+- **Rasse:** Gnom
 - **Klasse:** Illusionist
 - **Alter:** 38
 - **Größe:** 0,92m

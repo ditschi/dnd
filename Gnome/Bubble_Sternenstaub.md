@@ -1,6 +1,7 @@
 # Bubble Sternenstaub
 
 ## Grundinformationen
+- **Rasse:** Gnomin
 - **Klasse:** Alchemistin
 - **Alter:** 31
 - **Größe:** 0,85m

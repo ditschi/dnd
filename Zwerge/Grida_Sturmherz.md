@@ -1,6 +1,7 @@
 # Grida Sturmherz
 
 ## Grundinformationen
+- **Rasse:** Zwergin
 - **Klasse:** Barbarin
 - **Alter:** 82
 - **Größe:** 1,45m

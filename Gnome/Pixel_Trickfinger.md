@@ -1,6 +1,7 @@
 # Pixel Trickfinger
 
 ## Grundinformationen
+- **Rasse:** Gnomin
 - **Klasse:** Schurke (Illusionist-Dieb)
 - **Größe:** 0,86m
 - **Gewicht:** 14kg

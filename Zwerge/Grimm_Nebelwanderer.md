@@ -1,6 +1,7 @@
 # Grimm Nebelwanderer
 
 ## Grundinformationen
+- **Rasse:** Zwerg
 - **Klasse:** Waldläufer (Höhlenpfadfinder)
 - **Alter:** 112
 - **Größe:** 1,28m

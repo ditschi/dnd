@@ -1,6 +1,7 @@
 # Tinker Goldknopf
 
 ## Grundinformationen
+- **Rasse:** Gnom
 - **Klasse:** Erfinder/Barde
 - **Alter:** 45
 - **Größe:** 0,94m

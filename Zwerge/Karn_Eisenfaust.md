@@ -1,10 +1,12 @@
 # Karn Eisenfaust
 
 ## Grundinformationen
+- **Rasse:** Zwerg
 - **Klasse:** Mönch (Weg der Eisernen Hand)
 - **Größe:** 1,29m
 - **Gewicht:** 70kg
 - **Alignment:** Rechtschaffen Neutral
+- **Alter:** 142
 
 ## Erscheinung & Aussehen
 Karn ist ein muskulöser Zwerg mit metallisch glänzender Haut und einem kurz gestutzten, eisengrauen Bart, der mit Metallringen durchflochten ist. Seine Augen haben die Farbe geschmolzenen Stahls. Seine Hände sind von feinen Metallschuppen bedeckt, die beim Kampf aufleuchten.

@@ -1,6 +1,7 @@
 # Pippa Schattentanz
 
 ## Grundinformationen
+- **Rasse:** Gnomin
 - **Klasse:** Schurkin
 - **Alter:** 27
 - **Größe:** 0,90m
