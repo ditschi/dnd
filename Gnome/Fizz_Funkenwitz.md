@@ -1,5 +1,7 @@
 # Fizz Funkenwitz
 
+![Fizz Funkenwitz](Fizz_Funkenwitz.jpeg)
+
 ## Grundinformationen
 - **Rasse:** Gnom
 - **Klasse:** Artificer
