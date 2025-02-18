@@ -1,6 +1,6 @@
 # Fizz Funkenwitz
 
-![Fizz Funkenwitz](Fizz_Funkenwitz.jpeg)
+![Fizz Funkenwitz](Fizz_Funkenwitz.png)
 
 ## Grundinformationen
 - **Rasse:** Gnom
